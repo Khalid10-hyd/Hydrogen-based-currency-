@@ -1,0 +1,6 @@
+{
+  "name": "thorium-hydrogen-h-economy",
+  "description": "simulation-and-evaluation-platform-for-the-thorium-backbacked-physical-reserve",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
